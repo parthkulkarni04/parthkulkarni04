@@ -6,7 +6,7 @@
 
 <div class="github-introduction">
 
-Im a *Aspiring Machine Learning Engineer** who loves to bring ideas to life in the browser. I grew up in the 90's early 2000's and fell in love with the internet. Therefore I am excited about designing and developing websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. Also, I kind of want to bring back the 90's web design aesthetic. I think it was cool. 😎
+Im a *Aspiring Machine Learning Engineer** who loves to bring ideas to life. Also, I kind of want to bring back the 90's web design aesthetic. I think it was cool. 😎
 
 </div>
 
@@ -56,18 +56,19 @@ Whenever I write documentation i try to follow keep in mind the following steps 
 
 ### <p align="center">⚙️ My development environment </p>
 
-> I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://ohmyposh.dev/" target="_blank">Oh-My-Posh</a> for my terminal.
+<!-- > I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://ohmyposh.dev/" target="_blank">Oh-My-Posh</a> for my terminal. -->
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
   <td valign="top" width="50%">
   
-  #### 🖥️ Windows Power User
+  #### 💻 Laptop
+
+  I use MacBook Air M1 as my primary development/college stuff/everything-to-do machine.
   
   ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
-  ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=#0078D4)
+  ![zsh](https://img.shields.io/badge/-zsh-000000?style=flat&logo=gnubash&logoColor=#0078D4)
   ![WSL](https://img.shields.io/badge/-WSL-000000?style=flat&logo=windows-subsystem-for-linux&logoColor=#FCC624)
   
   </td>
@@ -75,15 +76,18 @@ Whenever I write documentation i try to follow keep in mind the following steps 
   
   #### 🐧 Linux Enthusiast
   
-  I love working with Linux and Im always exploring new things in the vast open-source world.
+  I love working with Linux and currently I'm using my old 2015 dell latitude 14 as a linux server.  Im always exploring new things in the vast open-source world. Currently
   
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
   ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
+  ![NextCloud](https://img.shields.io/badge/-nextcloud-000000?style=flat&logo=nextcloud&logoColor=#1793D1)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
   
   </td>
   </tr>
   </table>
 </div>
+
+![Singing Off ✌️](https://tenor.com/view/hospital-hello-nurse-gif-26601570)
+
