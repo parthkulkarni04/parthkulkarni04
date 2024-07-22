@@ -89,7 +89,10 @@ Whenever I write documentation i try to follow keep in mind the following steps 
   </table>
 </div>
 
-![bye](Assets/signing-off.gif)
+<div style="text-align: center;">
+    <img src="Assets/signing-off.gif" alt="Signing Off ✌️">
+</div>
+
 
 
 
