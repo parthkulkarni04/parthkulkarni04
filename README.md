@@ -89,9 +89,10 @@ Whenever I write documentation i try to follow keep in mind the following steps 
   </table>
 </div>
 
-<div style="text-align: center;">
-    <img src="Assets/signing-off.gif" alt="Signing Off ✌️">
+<div style="display: flex; justify-content: center;">
+    <img src="Assets/signing-off.gif" alt="bye">
 </div>
+
 
 
 
