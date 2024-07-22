@@ -32,8 +32,8 @@ Im a *Aspiring Machine Learning Engineer** who loves to bring ideas to life. Als
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=parthkulkarni04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Parth's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthkulkarni04&theme=tokyonight&hide_border=true" alt="Parth's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=parthkulkarni04&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Parth's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthkulkarni04&theme=transparent&hide_border=true" alt="Parth's Streak" height="165">
   </p>
 </div>
 
