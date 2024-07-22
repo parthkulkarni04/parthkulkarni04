@@ -89,5 +89,6 @@ Whenever I write documentation i try to follow keep in mind the following steps 
   </table>
 </div>
 
-![Singing Off ✌️](https://tenor.com/view/hospital-hello-nurse-gif-26601570)
+<img src="https://tenor.com/view/hospital-hello-nurse-gif-26601570" alt="Signing Off">
+
 
