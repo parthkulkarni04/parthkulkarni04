@@ -15,12 +15,12 @@ Im a *Aspiring Machine Learning Engineer** who loves to bring ideas to life in t
 
 <div class="badges-intro">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=bootstrap&logoColor=#7952B3)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=php&logoColor=#777BB4)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#7952B3)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=#777BB4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=angular&logoColor=#DD0031)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=wordpress&logoColor=#21759B)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#DD0031)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=#21759B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=#CC6699)
@@ -51,7 +51,7 @@ Whenever I write documentation i try to follow keep in mind the following steps 
 5. **Who** is this documentation for?
 ```
 
-![jupyter](https://img.shields.io/badge/-jupyter-503D4D?style=flat&logo=obsidian&logoColor=#0078D6)
+![jupyter](https://img.shields.io/badge/-jupyter-503D4D?style=flat&logo=jupyter&logoColor=#0078D6)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=#000000)
 
 ### <p align="center">⚙️ My development environment </p>
