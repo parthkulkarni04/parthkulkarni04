@@ -89,7 +89,7 @@ Whenever I write documentation i try to follow keep in mind the following steps 
   </table>
 </div>
 
-![bye](./assets/signing-off.gif)
+![bye](Assets/signing-off.gif)
 
 
 
